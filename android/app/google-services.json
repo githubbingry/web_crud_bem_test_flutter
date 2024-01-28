@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "907712000410",
+    "project_id": "web-crud-bem-test",
+    "storage_bucket": "web-crud-bem-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907712000410:android:01a07216b994bc8f134a23",
+        "android_client_info": {
+          "package_name": "com.example.web_crud_bem_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYXsHj3IO2XNhmJLsKtvoWsogzT1uDK0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
