@@ -1,16 +1,10 @@
-# web_crud_bem_test
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This should've been for android, but hey u can also use it for web, so I made some web crud test
+Tho for now its only the UI, I still hasn't implement the CRUD function and connect to the database yet..
+Home page:
+<div style="display:flex;">
+    <<img src="https://github.com/githubbingry/web_crud_bem_test_flutter/ui_pics/Screenshot%202024-01-28%20235700.png" alt="screen_1" width="200"/>>
+</div>
+Add page:
+<div style="display:flex;">
+    <<img src="https://github.com/githubbingry/web_crud_bem_test_flutter/ui_pics/Screenshot%202024-01-28%20235739.png" alt="screen_1" width="200"/>>
+</div>
